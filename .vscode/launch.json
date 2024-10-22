@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open veg.html",
+            "file": "c:\\Users\\GANEGAON GP\\Desktop\\ICP10-HTML-github-Project-1-Restaurant\\Pages\\veg.html"
+        }
+    ]
+}
